@@ -1,0 +1,1 @@
+EXEC [dbo].[Rabotnik_select_all]

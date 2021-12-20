@@ -1,0 +1,1 @@
+EXEC [dbo].[Position_update] @ID_Position, @Name_Position

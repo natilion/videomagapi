@@ -1,0 +1,1 @@
+EXEC [dbo].[Tovar_select_all]

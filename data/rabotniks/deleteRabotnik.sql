@@ -1,0 +1,1 @@
+EXEC [dbo].[Rabotnik_delete] @ID_Rabotnik

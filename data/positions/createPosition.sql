@@ -1,0 +1,1 @@
+EXEC [dbo].[Position_insert] @Name_Position

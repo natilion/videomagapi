@@ -1,0 +1,1 @@
+EXEC [dbo].[Tovar_delete_log] @ID_Tovar

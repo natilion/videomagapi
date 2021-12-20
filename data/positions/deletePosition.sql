@@ -1,0 +1,1 @@
+EXEC [dbo].[Position_delete] @ID_Position
